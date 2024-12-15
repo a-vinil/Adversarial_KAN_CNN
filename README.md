@@ -19,6 +19,6 @@ The repository contains the following Jupyter notebooks:
 To run the notebooks:  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/a-vinil/dl_kan_proj.git
-   cd dl-kan-proj
+   git clone https://github.com/a-vinil/Adversarial_KAN_CNN.git
+   cd Adversarial_KAN_CNN
 
